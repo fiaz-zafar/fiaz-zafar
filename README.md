@@ -96,21 +96,30 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/fiaz-zafar/fiaz-zafar/main/profile-summary-card-output/monokai/3-stats.svg" alt="GitHub stats" width="420" /></td>
+    <td><img src="https://raw.githubusercontent.com/fiaz-zafar/fiaz-zafar/main/profile-summary-card-output/monokai/2-most-commit-language.svg" alt="Top languages by commit" width="420" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/fiaz-zafar/fiaz-zafar/main/profile-summary-card-output/monokai/1-repos-per-language.svg" alt="Repos per language" width="420" /></td>
+    <td><img src="https://raw.githubusercontent.com/fiaz-zafar/fiaz-zafar/main/profile-summary-card-output/monokai/4-productive-time.svg" alt="Productive time" width="420" /></td>
+  </tr>
+</table>
 
-<img src="./profile-summary-card-output/monokai/3-stats.svg" width="49%" alt="GitHub Stats" />
-<img src="./profile-summary-card-output/monokai/2-most-commit-language.svg" width="49%" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fiaz-zafar&theme=monokai&hide_border=true" alt="GitHub streak" />
+</p>
 
-<br/>
 
-<img src="https://streak-stats.demolab.com/?user=fiaz-zafar&theme=monokai&hide_border=true" alt="GitHub Streak" />
+### 📌 Featured Projects
 
-</div>
-
-## 📌 Featured Projects
-See my pinned repositories below 👇
+| Project | Description |
+|---|---|
+| [Productivity Suite](https://github.com/fiaz-zafar/Productivity-suite-) | Productivity tools built with Python |
+| [Full-Stack Developer with MERN & NextJS Learning](https://github.com/fiaz-zafar/Full-Stack-Developer-with-MERN-NextJS-Learning) | HTML, CSS, JavaScript and backend practice, day by day |
 
 ## 🏆 GitHub Trophies
 
