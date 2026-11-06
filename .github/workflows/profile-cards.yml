@@ -35,8 +35,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v1.0.0
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
         with:
           USERNAME: ${{ github.repository_owner }}
