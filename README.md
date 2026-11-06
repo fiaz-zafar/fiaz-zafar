@@ -100,10 +100,12 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fiaz-zafar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiaz-zafar&layout=compact&theme=tokyonight&hide_border=true)
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most Used Languages" />
 
-![Streak](https://streak-stats.demolab.com/?user=fiaz-zafar&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=fiaz-zafar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
